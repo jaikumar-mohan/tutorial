@@ -1,0 +1,27 @@
+﻿    .float-left-area  {
+        padding: 15px 0px 0px 20px;
+        width: 75%;
+        float: left;
+    }
+
+    .float-right-area {
+        padding: 0px 20px 0px 0px;
+        width: 25%;
+        float: left;
+    }
+
+    .inner-left	  {
+        padding: 0px 0px 0px 0px;
+        margin-right: 0px;
+        /*border: #999999 1px solid;*/
+        min-height: 2000px;
+    }
+
+    .inner-right	  {
+        font-size: 11px;
+        padding: 15px 5px 5px 5px;
+        /*border: #999999 1px solid;*/
+        min-height: 2000px; 
+    }
+
+    .clear-floated	  { clear: both; height: 1px; font-size: 1px; line-height: 1px; padding: 0; margin: 0; }
